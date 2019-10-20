@@ -1,0 +1,8 @@
+table, th, td {
+  border-collapse: separate; }
+
+tr {
+  background-color: #e9b273; }
+
+tr:nth-child(even) {
+  background-color: red; }
